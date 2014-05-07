@@ -1,0 +1,1519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sta",
+				"status_inverse"
+			],
+			[
+				"start",
+				"startTimeUTC"
+			],
+			[
+				"DENI",
+				"DENIEDCONFIRMATION"
+			],
+			[
+				"denied",
+				"deniedConfirmations"
+			],
+			[
+				"confi",
+				"confirmedConfirmations"
+			],
+			[
+				"get",
+				"getFullName"
+			],
+			[
+				"CANCELL",
+				"cancelledConfirmations"
+			],
+			[
+				"cancelled",
+				"cancelledConfirmations"
+			],
+			[
+				"pending",
+				"pendingRequests"
+			],
+			[
+				"Book",
+				"BookingConfirmation"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"Jacopo",
+				"jackopo82"
+			],
+			[
+				"CANCE",
+				"CANCELLEDCONFIRMATION"
+			],
+			[
+				"C",
+				"COMPLETE"
+			],
+			[
+				"Stat",
+				"State"
+			],
+			[
+				"book",
+				"bookings"
+			],
+			[
+				"con",
+				"console.	.assert(assertion, message)"
+			],
+			[
+				"send",
+				"sendEmail"
+			],
+			[
+				"sen",
+				"sendMail"
+			],
+			[
+				"Pe",
+				"PENDINGREQUEST"
+			],
+			[
+				"ticket",
+				"ticket"
+			],
+			[
+				"text",
+				"textright"
+			],
+			[
+				"tex",
+				"textcenter"
+			],
+			[
+				"te",
+				"textright"
+			],
+			[
+				"respo",
+				"responsible"
+			],
+			[
+				"textright",
+				"textright"
+			],
+			[
+				"changeS",
+				"changeSelectBox()	jobview.js"
+			],
+			[
+				"sear",
+				"search-query	BootstrapClass"
+			],
+			[
+				"update",
+				"updateSearchingFor"
+			],
+			[
+				"getSearc",
+				"getSearchingFor()	jobview.js"
+			],
+			[
+				"temp",
+				"tempJobs"
+			],
+			[
+				"locato",
+				"location_title"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"datat",
+				"dataType"
+			],
+			[
+				"location",
+				"location_title"
+			],
+			[
+				"cont",
+				"contains"
+			],
+			[
+				"span",
+				"span70"
+			],
+			[
+				"dar",
+				"darkform"
+			],
+			[
+				"swi",
+				"switchTab(tab)	jobview.js"
+			],
+			[
+				"setP",
+				"setPos(val)	jobview.js"
+			],
+			[
+				"getPo",
+				"getPos()	jobview.js"
+			],
+			[
+				"vert",
+				"vertPos"
+			],
+			[
+				"ini",
+				"initialized"
+			],
+			[
+				"li",
+				"lithec"
+			],
+			[
+				"domain",
+				"domaintype"
+			],
+			[
+				"cancel",
+				"cancelBooking"
+			],
+			[
+				"corporati",
+				"corporationname"
+			],
+			[
+				"Status",
+				"Status"
+			],
+			[
+				"delete",
+				"deleteJob"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"error",
+				"error(xhr, status, error)	jquery.jeditable.js"
+			],
+			[
+				"fet",
+				"fetchPO"
+			],
+			[
+				"id",
+				"ids"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"starT",
+				"startTime"
+			],
+			[
+				"HR",
+				"Hour"
+			],
+			[
+				"confir",
+				"confirmationStatusMessage"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"sucess",
+				"successfully"
+			],
+			[
+				"consol",
+				"console.	console.log()"
+			],
+			[
+				"show",
+				"showMessage"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"ticke",
+				"ticketitem"
+			],
+			[
+				"tick",
+				"ticketId"
+			],
+			[
+				"dele",
+				"deleteTicket"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"Bin",
+				"BigInteger"
+			],
+			[
+				"getT",
+				"getTotalWage"
+			],
+			[
+				"CON",
+				"CONFIRMEDRESPONSE"
+			],
+			[
+				"confirm",
+				"confirmBooking"
+			],
+			[
+				"booki",
+				"bookingid"
+			],
+			[
+				"sibling",
+				"siblings	jQuery"
+			],
+			[
+				"textleft",
+				"textleft"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"bookings",
+				"bookingService"
+			],
+			[
+				"booking",
+				"booking"
+			],
+			[
+				"goBack",
+				"goBack(level)	jobview.js"
+			],
+			[
+				"switch",
+				"switchTab(tab)	jobview.js"
+			],
+			[
+				"getBooki",
+				"getBooking(bookingId)	jobview.js"
+			],
+			[
+				"css",
+				"cssClass"
+			],
+			[
+				"shift",
+				"shiftsInATicket"
+			],
+			[
+				"Shif",
+				"ShiftService"
+			],
+			[
+				"navbar_",
+				"navbar_left_header"
+			],
+			[
+				"respon",
+				"responsifyTables()	common.js"
+			],
+			[
+				"listTi",
+				"listTickets(jobId)	jobview.js"
+			],
+			[
+				"showD",
+				"showDialog()	common.js"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"item",
+				"itemheader"
+			],
+			[
+				"details",
+				"detailsContainer"
+			],
+			[
+				"token",
+				"tokenizedSearchString"
+			],
+			[
+				"corporation",
+				"corporationKey"
+			],
+			[
+				"create",
+				"createCriteria"
+			],
+			[
+				"boking",
+				"bookingService"
+			],
+			[
+				"searchBook",
+				"searchBookingsByParamsAndUser"
+			],
+			[
+				"all",
+				"allBookings"
+			],
+			[
+				"sort",
+				"sortBookingsByParams"
+			],
+			[
+				"trigger",
+				"triggerAutocomplete"
+			],
+			[
+				"shir",
+				"shirouser"
+			],
+			[
+				"user",
+				"userService"
+			],
+			[
+				"pu",
+				"publicProfile"
+			],
+			[
+				"privc",
+				"privacySetting"
+			],
+			[
+				"priva",
+				"privacySetting"
+			],
+			[
+				"pri",
+				"privacySetting"
+			],
+			[
+				"fail",
+				"failOnError"
+			],
+			[
+				"priv",
+				"privacySetting"
+			],
+			[
+				"addToPr",
+				"addToPrivacySetting"
+			],
+			[
+				"Priva",
+				"PrivacyAuthorization"
+			],
+			[
+				"Priv",
+				"PrivacyAuthorization"
+			],
+			[
+				"Pr",
+				"PrivacyAuthorization"
+			],
+			[
+				"boo",
+				"boolean"
+			],
+			[
+				"getser",
+				"getSearchingFor()	project.form.js"
+			],
+			[
+				"job",
+				"job"
+			],
+			[
+				"cance",
+				"CANCELLEDCONFIRMATION"
+			],
+			[
+				"CAnce",
+				"CANCELLED"
+			],
+			[
+				"po",
+				"poNumber"
+			],
+			[
+				"getVa",
+				"getValue()	projectview.js"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"ver",
+				"vert_position_for_tickets"
+			],
+			[
+				"vert_position_fo",
+				"vert_position_for_shifts"
+			],
+			[
+				"getVEr",
+				"getVertPosition()	projectview.js"
+			],
+			[
+				"getVert",
+				"getVertPosition()	projectview.js"
+			],
+			[
+				"tickets",
+				"ticketService"
+			],
+			[
+				"PEND",
+				"PENDINGREQUEST"
+			],
+			[
+				"getB",
+				"getBookingSituation"
+			],
+			[
+				"hasa",
+				"hasAcceptedConfirmations"
+			],
+			[
+				"hasde",
+				"hasDeniedResponses"
+			],
+			[
+				"has",
+				"hasAcceptedResponse"
+			],
+			[
+				"PENDING",
+				"PENDING"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2284,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 476,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jacopo/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1136,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 241.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"grails",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"grail",
+				"Set Syntax: Grails Controller (Groovy)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"svn di",
+				"SVN: Diff"
+			],
+			[
+				"svn",
+				"SVN: Diff"
+			],
+			[
+				"",
+				"SVN: (File) Log"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lor",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"lore",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"loremp",
+				"Snippet: HTML - Lorem Ipsum"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"aligne",
+				"Preferences: Alignment Key Bindings – Default"
+			]
+		],
+		"width": 633.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jacopo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jacopo/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/jacopo/.config/sublime-text-2/Packages/User/View In Browser.sublime-settings",
+		"/home/jacopo/workspace-spring/bookuopenshift/web-app/css/projectview.css",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/profile/index.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/web-app/js/jobview.js",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_contact.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_location.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_po.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_reference.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_skill.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_team.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_video.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline_jobview/_prop_weblink.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/web-app/js/properties.js",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/domain/com/lithec/webapp/Job.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/domain/com/lithec/webapp/Ticket.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/src/groovy/com/lithec/webapp/UtilityHelper.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/conf/Config.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/dashboard/_bookingDetailsSection.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/controllers/com/lithec/webapp/DashboardController.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/domain/com/lithec/webapp/booking/Booking.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/dashboard/_newsTemplate.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/services/com/lithec/webapp/NewsService.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/mailTemplates/_bookingCancelMailTemplate.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/services/com/lithec/webapp/BootstrapService.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/conf/BootStrap.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/services/com/lithec/webapp/BookingService.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/controllers/com/lithec/webapp/BookingController.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/project/_jobItem.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/controllers/com/lithec/webapp/ProjectController.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/controllers/com/lithec/webapp/ProfileController.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/web-app/css/jobview.css",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline/_prop_weblink.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/showInline/_prop_location.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/mailTemplates/_ticketCancelledMailTemplate.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/domain/com/lithec/webapp/properties/datatype/Prop_Reference.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/project/_ticketItem.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/controllers/com/lithec/webapp/PropertyController.groovy",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/properties/_prop_reference.gsp",
+		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/project/jobview.gsp",
+		"/home/jacopo/grails/grailsapp.sublime-project",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/controllers/com/lithec/webapp/ProjectController.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/controllers/com/lithec/webapp/InvitationController.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/JobService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/controllers/com/lithec/webapp/BookingController.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/conf/Config.groovy",
+		"/home/jacopo/Dropbox/bookuNew/Server/openshift",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/js/jobview.js",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/controllers/com/lithec/webapp/DashboardController.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/dashboard/_newsTemplate.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_contractor.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/TicketService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/conf/BootStrap.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/BookingService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/controllers/com/lithec/webapp/PropertyController.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/BootstrapService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/PropertyService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/js/properties.js",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_location.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/_prop_contact.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_team.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_weblink.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_video.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_contact.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/NewsService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/domain/com/lithec/webapp/Ticket.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/domain/com/lithec/webapp/Job.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/css/jobview.css",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/jobview.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_search-form.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_jobItem.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_ticketItem.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_shiftItem.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_new-job.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_edit-job.gsp",
+		"/home/jacopo/.conkyrc",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/js/dashboard_jobview.js",
+		"/home/jacopo/workspace-spring/grailsapp/src/groovy/com/lithec/webapp/UtilityHelper.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/dashboard/_bookingItem.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/conf/ApplicationResources.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/js/project.form.js",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/css/forms.css",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_po.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline_jobview/_prop_reference.gsp",
+		"/home/jacopo/Dropbox/Uni/1.txt",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/css/layoutResponsive.css",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/booking/searchContractor.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/showInline/_prop_location.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/css/base.css",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/mailTemplates/_jobCancelledMailTemplate.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/conf/DataSource.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/js/common.js",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/properties/show/_showProperties.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/taglib/com/lithec/webapp/PropsTagLib.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/services/com/lithec/webapp/ShiftService.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/src/groovy/com/lithec/webapp/ShiftCommand.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/domain/com/lithec/webapp/ShiftRaw.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/domain/com/lithec/webapp/Shift.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/web-app/js/dashboard_actions.js",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/dashboard/_jobview_itemControls.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/domain/com/lithec/webapp/Corporation.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/abstractFile/list.gsp",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/views/project/_jobs.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/conf/ApplicationResources.groovy",
+		"/home/jacopo/workspace-spring/peacock/grails-app/controllers/com/lithec/webapp/ProjectController.groovy",
+		"/home/jacopo/workspace-spring/peacock/grails-app/domain/com/lithec/webapp/booking/Booking.groovy",
+		"/home/jacopo/workspace-spring/grailsapp/grails-app/domain/com/lithec/webapp/booking/Booking.groovy",
+		"/home/jacopo/workspace-spring/peacock/grails-app/domain/com/lithec/webapp/Shift.groovy",
+		"/home/jacopo/workspace-spring/peacock/grails-app/domain/com/lithec/webapp/Ticket.groovy",
+		"/home/jacopo/workspace-spring/peacock/web-app/js/jobview.js",
+		"/home/jacopo/workspace-spring/peacock/web-app/js/dashboard_jobview.js",
+		"/home/jacopo/workspace-spring/peacock/web-app/css/layoutResponsive.css",
+		"/home/jacopo/workspace-spring/peacock/web-app/css/jobview.css",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/jobview.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_jobs.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_jobItem.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_ticketItem.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_shiftItem.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_contractor.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_new-ticket.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_edit-ticket.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_new-job.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_edit-job.gsp",
+		"/home/jacopo/workspace-spring/peacock/grails-app/services/com/lithec/webapp/TicketService.groovy",
+		"/home/jacopo/workspace-spring/peacock/grails-app/services/com/lithec/webapp/JobService.groovy",
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/common/_menuResponsive.gsp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.gsp",
+			"",
+			"*.css",
+			"*.gsp",
+			"/home/jacopo/workspace-spring/peacock/",
+			"/home/jacopo/workspace-spring/peacock/web-app/css",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"view_in",
+			"ctrl+alt+v",
+			"searchform",
+			"half",
+			".half-top{margin-top: 15px !important;}",
+			"loadProps(this)",
+			"divI",
+			"parent",
+			"logProps(this)",
+			")\"></",
+			"logProps(this)",
+			"function loadProperties()",
+			"bookingDetails",
+			"dashboard/bookingDetailsSection",
+			"class=\"orange\">Reque",
+			"avatarlink enterprise",
+			"color_state5",
+			"deal",
+			"function removeProp",
+			"							",
+			"sendEmail",
+			"job",
+			"status",
+			"@",
+			"operatorInvitation",
+			"text 'Please ensure that you allow the HTML in this mail to be displayed!'",
+			"text 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\ntext 'Please ensure that you allow the HTML in this mail to be displayed!'\nPlease ensure",
+			"def tz",
+			"bindParamsToContactProperty",
+			"updateJob(",
+			"updateJob",
+			" validating contact from form:",
+			"\\n\\n\\n",
+			"function pickProperty(",
+			"assert(job",
+			"createDumm",
+			" domainObj != null && prop && prop.isOwningUser() && attachedProps.contains(prop)",
+			"bookingService.cancelBooking",
+			".hide()",
+			"show(",
+			"function show(",
+			".content",
+			"stop",
+			".content",
+			"content",
+			"open-deta",
+			"pickProperty(",
+			"booking",
+			"input",
+			"job.sta",
+			"job.st",
+			"createJobDummyForTestCorporation",
+			"open-deta",
+			"span30",
+			"booking",
+			"positive_contractor",
+			".search_",
+			".search",
+			"searc",
+			"search-",
+			"search-mod",
+			"lens",
+			"HIDE",
+			"#tabs",
+			"activate",
+			"getSelectedTabPanel()",
+			"selectAll",
+			"activateHighlighting(",
+			"parent",
+			"bookingSelector",
+			"value",
+			"changeSelectBox",
+			"#tabs",
+			"updateSear",
+			"$(\"#tabs\").tabs(\"option\",\"selected\")",
+			"($(\"#tabs\").tabs(\"option\",\"selected\")",
+			"getSearchingFor()",
+			"getsearching",
+			"ui.",
+			"$(\"#tabs\")",
+			"updateSearchingFor",
+			"search-criteria",
+			"select2",
+			"Job",
+			"instance",
+			"tokenize",
+			"getPropertyNames(",
+			".item",
+			"item",
+			"three columns",
+			"chzn",
+			"chz",
+			"search_module",
+			"hand-lens",
+			"update",
+			":${",
+			">\n",
+			"showInline/",
+			"submitPropertyForm(",
+			"Job",
+			"job",
+			"getTicket",
+			"vertJob",
+			"level",
+			"vertJobPos",
+			"verJobPos",
+			"vertJobPos",
+			"vertPos",
+			"testPropertyCreationForUser()",
+			"tabs",
+			"stepbar",
+			"menubar",
+			".stepbar",
+			"step",
+			"stepbar",
+			"back",
+			"loadpro",
+			"function removeProperty(",
+			"span 20",
+			"[propInstance: property",
+			".DENIED,",
+			".DENIED",
+			"cancel",
+			"cancelBooking",
+			"getTestEnterprise",
+			"ei labore",
+			"job",
+			"function closeDialog("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"loadPropsForJob(this)",
+			"loadProps(this)",
+			"span20",
+			"",
+			"$(\"#tabs\").tabs(\"option\",\"selected\")",
+			"two columns",
+			"showInline_jobview/",
+			"Ticket",
+			"ticket",
+			"vertJobPos",
+			"verJobPos",
+			"span100",
+			"[propInstance: property, domainInstance: job, domainType: 'com.lithec.webapp.Job'",
+			"ticket",
+			"getTotalWage()",
+			"${}",
+			")}}",
+			"HH:mm",
+			"tempBooking",
+			"",
+			"span8",
+			"span2",
+			"span5",
+			"span2",
+			"span8",
+			"span5",
+			"span7",
+			"span3",
+			"span8",
+			"span2",
+			"span5",
+			"span",
+			"sapn50",
+			"ticket.",
+			"${job",
+			"jobId",
+			"new",
+			"thirteen",
+			".darkform.full-width",
+			"editform",
+			"class=\"one columns",
+			"class=\"eight columns\"",
+			"class=\"errors one columns\"",
+			" class=\"two columns\"",
+			"<fieldset class=\"row\"",
+			"${item",
+			"parameter.",
+			"i < 1",
+			"",
+			"i > 0 ? : []",
+			"youtube-dl http:",
+			"youtube-dl http",
+			"wget http",
+			"</code>",
+			"<code>",
+			"</syntaxhighlight>",
+			"<syntaxhighlight lang=\"java\">",
+			"wget http",
+			"none",
+			"",
+			"border-style:",
+			"solid",
+			"border: none inherit",
+			"wget http:",
+			"bookings",
+			"",
+			"ed = new",
+			"d= new DateTime()",
+			"= new DateTime()",
+			"privacySetting.lastUpdated = new Date()",
+			"dateCreated = new Date()",
+			"privacySetting.dateCreated = new DateTime()",
+			"privacySetting.lastUpdated = new DateTime()",
+			"privacySetting.setLastUpdated(new DateTime())",
+			".privacySetting = privacySetting",
+			"addToPrivacySetting(privacySetting.save())",
+			"addToPrivacySetting(privacySetting).save()",
+			"setPrivacySetting(privacySetting.save())",
+			"(privacySetting.save())",
+			"privacySetting",
+			"privacySetting.save())",
+			"new PrivacyAuthorization(showEmail: \"show\")",
+			"formId",
+			"peacock",
+			"",
+			"<td>",
+			"",
+			"class=\"span8\"",
+			"setPos",
+			"getPos",
+			"resizable: true",
+			"",
+			"Booking.State",
+			"this.",
+			"",
+			"class=\"span1\"",
+			"colspan=\"1\"",
+			"cellspan=\"1\"",
+			"",
+			"job",
+			"colspan=\"",
+			"ticket",
+			"profession",
+			"toLowerCase",
+			"list",
+			".shift",
+			"edit",
+			"job_id",
+			"",
+			"ticket",
+			"td",
+			".second-row",
+			".ticket-details",
+			"project",
+			".inbox-btn",
+			".sent-btn",
+			"recipient",
+			"priority",
+			"div",
+			"message",
+			"ticket",
+			"toggleSlideShifts()",
+			"toggleSlideDescriptions()",
+			"div",
+			"img",
+			"div",
+			"img",
+			"freelancer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1132,
+								1132
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"parser": "markdown",
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"target": "browser",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/jacopo/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"eventd",
+				"grails-app/domain/com/fuxbau/booku/EventDay.groovy"
+			],
+			[
+				"eventday",
+				"grails-app/domain/com/fuxbau/booku/EventDay.groovy"
+			],
+			[
+				"booking",
+				"grails-app/domain/com/fuxbau/booku/BookingRequest.groovy"
+			],
+			[
+				"deal",
+				"grails-app/domain/com/fuxbau/booku/DealByHour.groovy"
+			],
+			[
+				"",
+				"grails-app/views/job/index.gsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/jacopo/php/moodle.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true
+}

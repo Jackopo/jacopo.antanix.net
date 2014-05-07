@@ -1,0 +1,82 @@
+body {
+	padding-top: 50px;
+}
+
+.past-job {
+	min-height: 20px;
+	padding: 5px 0;
+	margin-bottom: 15px;
+}
+
+.section-title,
+.position {
+	font-weight:bold;	
+}
+
+dl {
+  float: right;
+  clear: none;
+  width: 100%;
+}
+
+dt {
+  display: none;
+}
+
+dd {
+  width: 100%;
+}
+
+h3.section-title  {
+  color: #454545;
+  font-size: 22px;
+  font-weight: 700;
+  margin: 1px 0 3px 0;
+}
+
+p.paragraph-title {
+  color: #454545;
+  font-size: 120%;
+  font-weight: 600;
+  margin: 2px 0 2px 0;
+
+}
+
+p.date {
+  font-size: 86%;
+  color: #666;
+}
+
+p.company {
+  color: #888;
+}
+
+#personal-data dd {
+  width: 100%;
+}
+
+div.lang {
+  float: right;
+  border:0;
+  margin-right: 80px;
+}
+
+.lang a:hover {
+  border:0;
+  border-style:none;
+  text-decoration: underline;
+}
+
+.lang img {
+  border:0; 
+}
+
+.section {
+	margin-bottom: 20px;
+}
+@media (min-width: 992px) {
+	.border-top {
+		border-top: 1px solid #999;
+		padding-top: 5px;
+	}	
+}
