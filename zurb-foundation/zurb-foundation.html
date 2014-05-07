@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head> 
+	<meta charset="utf-8" /> 	
+	<meta name="viewport" content="width=device-width" />
+	<title>Zurb Foundation</title>
+	<link media="screen" type="text/css" href="css/style.css" rel="stylesheet" />
+	
+	<link rel="stylesheet" href="css/normalize.css" />
+	<!-- If you are using CSS version, add this -->
+	<link rel="stylesheet" href="css/foundation.css" />
+	<link rel="stylesheet" href="css/app.css" />
+
+	<script src="js/vendor/custom.modernizr.js"></script>
+
+</head> 
+
+<body > 
+
+	<div id="topbar" class="row">
+		<div class="large-1 columns right">
+			<a href="index.html">
+				<img class="" src="../img/gb.png"/>
+			</a> 
+			<a href="index-de.html">
+				<img class="" src="../img/de.png"/>
+			</a>
+		</div>
+	</div>
+	<header class="text-center">
+		<h1 id="title">Zurb Foundation</h1>
+		<h2 id="subtitle">a UI Framework</h2> 
+	</header>
+
+	<div  class="row">	
+		<div id="navigation" class="large-10 push-1 columns" >
+			<div data-magellan-expedition="fixed">
+				<dl class="sub-nav">
+					<dd data-magellan-arrival="block1" class="active"><a href="#block1">Block 1</a></dd>
+					<dd data-magellan-arrival="block2"><a href="#block2">Block 2</a></dd>
+					<dd data-magellan-arrival="block3"><a href="#block3">Block 3</a></dd>
+					<dd data-magellan-arrival="block4"><a href="#block4">Block 4</a></dd>
+					<dd data-magellan-arrival="list"><a href="#list">List</a></dd>
+					<dd data-magellan-arrival="definition-list"><a href="#definition-list">Defintion list</a></dd>
+				</dl>
+
+			</div>
+		</div>
+	</div>
+
+	<div id="body" class="row"> 
+		
+		<div id="body-content" class="large-10 push-1 columns">
+
+			<div id="block1" > 
+				<h3 class="section-title" data-magellan-destination="block1">Heading 3</h3>
+				<div class="">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>
+						<a data-tooltip class="has-tip" href="#" title="Lorem ipsum dolor sit amet....">This is a link with the Tooltip plugin</a>
+					</p>
+				</div> 
+			</div>
+
+			<div id="block2" > 
+				<h3 class="section-title" data-magellan-destination="block2">Accordion</h3>
+				<div class="section-container accordion" data-section="accordion">
+					<section>
+						<p class="title" data-section-title>
+							Section 1
+						</p>
+						<div class="section-body content" data-section-content>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						</div> 
+					</section>
+					<section>
+						<p class="title" data-section-title>
+							Section 2
+						</p>
+						<div class="section-body content" data-section-content>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						</div> 
+					</section>
+				</div>
+			</div>
+
+			<div id="block3"> 
+
+				<h3 class="section-title" data-magellan-destination="block3">Orbit</h3>
+				
+
+				<div id="myOrbit" class="">
+					<!-- Carousel indicators -->					
+					<ul data-orbit>
+						<li data-orbit-slide="headline-1">
+							<img src="../img/ubahn.jpg" />
+							<div class="orbit-caption">
+								<h4>Item 1</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+								proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+							</div>
+						</li>
+						<li data-orbit-slide="headline-2">
+							<img src="../img/firefox_alex.jpeg" /> 
+							<div class="orbit-caption">
+								<h4>Item 2</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+								proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>								
+							</div>
+						</li>
+						<li data-orbit-slide="headline-3">
+							<img src="../img/raspeberryPi.jpeg" />
+							<div class="orbit-caption">
+								<h4>Item 2</h4>
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+								proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+							</div>
+						</li>							
+							
+					</ul>
+					<!-- Deep Linking for theorbit gallery -->
+					<ul class="disc inline-list">
+						<li><a href="#" data-orbit-link="headline-1">Goto Slide 1</a></li>
+						<li><a href="#" data-orbit-link="headline-2">Goto Slide 2</a></li>
+						<li><a href="#" data-orbit-link="headline-3">Goto Slide 3</a></li>
+					</ul>
+					
+				</div>
+
+			</div>
+
+			<div id="block4"> 
+				<h3 class="section-title" data-magellan-destination="block4">Heading 3</h3>
+				<div>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				</div> 
+			</div> 
+
+			<div id="list" > 
+				<h3 class="section-title" data-magellan-destination="list">List</h3> 
+				<div class="section-body">
+					<ul> 
+						<li>Item 1</li> 
+						<li>Item 2</li> 
+						<li>Item 3</li> 
+						<li>Item 4</li> 
+					</ul> 
+				</div>
+			</div> 
+
+			<div id="defition-list"> 
+				<h3 class="section-title" data-magellan-destination="definition-list" >Definition List</h3> 
+				<div class="section-body">  
+					<dl> 
+						<dt>Term</dt> 
+						<dd>Definition</dd> 
+						<dt>Term</dt> 
+						<dd>Definition</dd> 
+						<dt>Term</dt> 
+						<dd>Definition</dd> 
+						<dt>Term</dt> 
+						<dd>Definition</dd> 							
+					</dl>
+				</div> 
+			</div>
+		</div>
+	</div>
+		
+	<footer class="push-2">
+		<p>&copy; Jacopo Ghisolfi 2013</p>
+	</footer>
+
+	<script>
+		document.write('<script src=' +
+		('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
+		'.js><\/script>')
+	</script>
+	<script src="js/foundation/foundation.js"></script>
+	<script src="js/foundation/foundation.alerts.js"></script>
+	<script src="js/foundation/foundation.clearing.js"></script>
+	<script src="js/foundation/foundation.cookie.js"></script>
+	<script src="js/foundation/foundation.dropdown.js"></script>
+	<script src="js/foundation/foundation.forms.js"></script>
+	<script src="js/foundation/foundation.joyride.js"></script>
+	<script src="js/foundation/foundation.magellan.js"></script>
+	<script src="js/foundation/foundation.orbit.js"></script>
+	<script src="js/foundation/foundation.placeholder.js"></script>
+	<script src="js/foundation/foundation.reveal.js"></script>
+	<script src="js/foundation/foundation.section.js"></script>
+	<script src="js/foundation/foundation.tooltips.js"></script>
+	<script src="js/foundation/foundation.topbar.js"></script>
+	<script>
+	$(document).foundation();
+	</script>
+
+</body> 
+
+</html> 

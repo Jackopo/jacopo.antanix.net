@@ -1,0 +1,100 @@
+
+html, body, h1, h2, h3, p, ul, li, dl, dt, dd {
+  padding: 0;
+  border: 0;
+  margin: 0;
+}
+
+body {
+  font-family: arial, helvetica, sans, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  color: #222;
+  background: white;
+}
+
+.impress-supported .fallback-message {
+    display: none;
+}
+
+.step {
+  position: relative;
+  width: 400px;
+  padding: 40px;
+  margin: 20px auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:    border-box;
+  -ms-box-sizing:     border-box;
+  -o-box-sizing:      border-box;
+  box-sizing:         border-box;
+  background: #ffffff;
+    
+}
+
+#overview {
+  background: transparent;
+  border: 0;
+
+}
+
+.present,
+.active {
+}
+
+.past,
+.future {
+  color: green;
+}
+
+.slide {
+  border: 1px red solid;
+}
+
+a {
+  color: #048;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 150%;
+  line-height:2.2em;
+  text-align: center;
+  width: 100%;
+}
+
+h2 {
+  font-size: 120%;
+  color: black;
+  margin-bottom: 10px;
+  text-decoration: none;
+  text-align: center;
+  width: 100%;
+  width: 100%;
+}
+
+h3 {
+  font-size: 120%;
+  color: black;
+  /*width: 15%;
+  float: left;*/
+  margin-bottom: 10px;
+  text-decoration: none;
+  /*	//~ border-bottom: 1px solid #999;*/
+}
+
+h4 {
+  font-size: 110%;
+  color: black;
+  /*width: 45%;*/
+  line-height:1.0em;
+  margin: 2pt 0 2pt 0;
+}
+
+

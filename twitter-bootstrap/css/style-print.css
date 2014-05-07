@@ -1,0 +1,13 @@
+#cv {
+	width: 100%;
+}	
+
+.lang,
+.browser-check,
+#nav-bar {
+	display: none;	
+}
+
+#profile {
+	line-height: 15px;
+}

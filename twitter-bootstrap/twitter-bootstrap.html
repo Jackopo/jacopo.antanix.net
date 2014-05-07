@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head> 
+	<title>Twitter Bootstrap</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link media="screen" type="text/css" href="css/style.css" rel="stylesheet" />
+	<!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css">  	
+</head> 
+
+<body data-spy="scroll" data-target=".nav"> 
+
+	<div id="topbar" class="navbar navbar-fixed-top">
+		<div class="span1 pull-right">
+			<a href="index.html">
+				<img class="img-rounded" src="../img/gb.png"/>
+			</a> 
+			<a href="index-de.html">
+				<img class="img-rounded" src="../img/de.png"/>
+			</a>
+		</div>
+	</div>
+	<header class="text-center">
+		<h1 id="title">Twitter Bootstrap</h1>
+		<h2 id="subtitle">a UI Framework</h2> 
+	</header>
+
+	<div id="cv" class="container-fluid"> 
+
+		<div id="body" class="row-fluid"> 
+
+			<div id="sidebar" class="span2" >
+				<ul class="nav nav-list well">
+					<li class="active"><a href="#block1">Block 1</a></li>
+					<li><a href="#block2">Block 2</a></li>
+					<li><a href="#block3">Block 3</a></li>
+					<li><a href="#block4">Block 4</a></li>
+					<li><a href="#list">List</a></li>
+					<li><a href="#definition-list">Defintion List</a></li>
+					<!-- <li><a href="#block5">Block 5</a></li> -->
+				</ul>
+			</div> 
+			
+			<div id="body-content" class="span8">
+
+				<div id="block1" class="well"> 
+					<h3 class="section-title">Heading 3</h3>
+					<div class="tooltip-element">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+						<p>
+							<a  data-toggle="tooltip" href="#" title="Lorem ipsum dolor sit amet....">This is a link with the Tooltip plugin</a>
+						</p>
+					</div> 
+				</div>
+
+				<div id="block2" class="well"> 
+					<h3 class="section-title">Collapse</h3>
+					<button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#collapsable">
+						Collapsable element
+					</button>
+					<div id="collapsable" class="collapse in">
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					</div> 
+				</div>
+
+				<div id="block3" class="well"> 
+					<h3 class="section-title">Carousel</h3>
+					
+
+					<div id="myCarousel" class="carousel slide">
+						<!-- Carousel indicators -->					
+						<ol class="carousel-indicators">
+							<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+							<li data-target="#myCarousel" data-slide-to="1"></li>
+							<li data-target="#myCarousel" data-slide-to="2"></li>							
+						</ol>
+						<!-- Carousel Items-->
+						<div class="carousel-inner">
+							
+							<!-- First Item -->
+							<div class="active item">
+								<img src="../img/ubahn.jpg" />
+								<div class="carousel-caption">
+									<h4>Item 1</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+							</div>
+							
+							<!-- Second Item -->
+							<div class="item">
+								<img src="../img/firefox_alex.jpeg" /> 
+								<div class="carousel-caption">
+									<h4>Item 2</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>								
+								</div>
+							</div>
+
+							<!-- Third Item -->
+							<div class="item">
+								<img src="../img/raspeberryPi.jpeg" />
+								<div class="carousel-caption">
+									<h4>Item 2</h4>
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+									quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+									consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+									cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+									proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								</div>
+							</div>							
+						</div>
+						<!-- Carousel Navigation-->
+						<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+						<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+						
+					</div>
+				</div>
+
+				<div id="block4" class="well"> 
+					<h3 class="section-title">Heading 3</h3>
+					<div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					</div> 
+				</div> 
+
+				<div id="list" class="well"> 
+					<h3 class="section-title">List</h3> 
+					<div class="section-body">
+						<ul> 
+							<li>Item 1</li> 
+							<li>Item 2</li> 
+							<li>Item 3</li> 
+							<li>Item 4</li> 
+						</ul> 
+					</div>
+				</div> 
+
+				<div id="definition-list" class="well"> 
+					<h3 class="section-title">Definition List</h3> 
+					<div class="section-body">  
+						<dl> 
+							<dt>Term</dt> 
+							<dd>Definition</dd> 
+							<dt>Term</dt> 
+							<dd>Definition</dd> 
+							<dt>Term</dt> 
+							<dd>Definition</dd> 
+							<dt>Term</dt> 
+							<dd>Definition</dd> 							
+						</dl>
+					</div> 
+				</div>
+
+				<!-- <div id="block5" class="well"> 
+					<h3 class="section-title">Heading 3</h3>
+					<div>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nisi magna, congue non placerat a, facilisis sit amet metus. Nullam id nisl tortor, eget lobortis magna. Vestibulum posuere rutrum quam sed auctor. Maecenas vitae eros eu tortor rhoncus rhoncus eu eget neque. Ut sit amet dui a magna interdum eleifend sed a nulla. Etiam at tortor at magna euismod pharetra sed sit amet sapien. Suspendisse fringilla massa odio. In in nulla magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eget est felis. Donec commodo mauris ac dolor dignissim id ullamcorper sapien tincidunt. Aliquam erat volutpat. Cras turpis nunc, pellentesque eu hendrerit a, laoreet sit amet mi. Integer iaculis molestie tortor quis accumsan.</p>
+
+						<p>Curabitur feugiat justo eu leo dignissim et imperdiet justo tincidunt. Proin eget nisi a dolor gravida vulputate. Sed tincidunt lacus laoreet sapien scelerisque viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc dapibus varius tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dolor enim, placerat quis blandit non, blandit pellentesque nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut metus sapien, accumsan a accumsan vel, interdum eget felis. Pellentesque commodo molestie posuere. Cras condimentum lectus hendrerit elit fermentum sit amet pretium odio mollis. Aenean eget velit dolor. Etiam non justo ac orci pretium mattis. Vivamus elementum ornare elit, eget placerat risus volutpat vel. Etiam risus libero, suscipit quis fermentum quis, laoreet non felis.</p>
+
+						<p>Nunc at lacus eget diam dignissim dictum non nec velit. Integer odio lorem, aliquet quis luctus sit amet, malesuada vitae orci. In hac habitasse platea dictumst. Suspendisse quis neque a lectus auctor luctus at vel tortor. Morbi faucibus libero non odio consequat ac vulputate mi tincidunt. Donec lacus felis, ornare feugiat egestas eu, blandit porttitor eros. Duis sagittis, mi vel tincidunt euismod, massa risus porttitor orci, eget volutpat nisl metus quis quam. Etiam mollis pretium nisl, sit amet consectetur velit bibendum nec. Etiam iaculis, leo nec condimentum facilisis, dolor massa auctor leo, sed feugiat sem eros at sem. Integer porta ante non nunc fermentum vitae vestibulum est facilisis. Donec porttitor lacinia tellus, vel hendrerit nulla imperdiet sit amet. Aliquam euismod erat eget nulla cursus porttitor. Sed vel magna ut nisl sodales dictum. Nunc ut tincidunt sem. Praesent bibendum sollicitudin diam non suscipit. Aliquam erat volutpat.</p>
+
+						<p>Vestibulum tempus, ante nec viverra aliquet, erat orci aliquam magna, vitae consequat orci est a metus. Vivamus vitae orci non est lacinia consequat quis quis justo. Praesent porttitor posuere urna, quis pulvinar felis tincidunt id. Suspendisse condimentum pharetra diam, in facilisis ipsum tempor at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent vel massa eget eros gravida interdum at eu tellus. Nunc condimentum nibh vitae erat feugiat ac tincidunt erat malesuada. Proin luctus purus sit amet ipsum feugiat non porta erat dictum. Curabitur sed orci leo, vitae suscipit elit.</p>
+
+						<p>Vivamus gravida turpis vitae orci placerat mollis. Praesent nec nulla vel arcu rhoncus pharetra vitae ut magna. Quisque ultricies, nunc sed ultrices mattis, turpis turpis fringilla felis, tempus feugiat mauris velit a arcu. In tortor ligula, sagittis nec posuere quis, dapibus sit amet arcu. Vestibulum dui nulla, lobortis in luctus ac, aliquam non sem. Phasellus semper, felis sit amet mattis porttitor, risus mauris lobortis ipsum, eget ullamcorper dui velit tincidunt sapien. Integer pellentesque est ut neque eleifend sagittis.</p>
+					</div> 
+				</div> --> 
+
+				
+			</div>
+		</div>
+	</div>
+	<footer class="offset2">
+		<p>&copy; Jacopo Ghisolfi 2013</p>
+	</footer>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/application.js"></script>
+</body> 
+
+</html> 
