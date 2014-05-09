@@ -1,5 +1,6 @@
-body {
-	padding-top: 50px;
+body,
+.section {
+	padding-top: 70px;
 }
 
 .past-job {
@@ -71,9 +72,6 @@ div.lang {
   border:0; 
 }
 
-.section {
-	margin-bottom: 20px;
-}
 @media (min-width: 992px) {
 	.border-top {
 		border-top: 1px solid #999;
