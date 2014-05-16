@@ -1,28 +1,27 @@
 body,
-.section {
-	padding-top: 70px;
+section {
+  padding-top: 70px;
 }
 
+.item {
+  height: 100%;
+}
 
-.navbar-default .navbar-nav>.active>a, 
-.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
   font-weight: bold;
 }
 
 .past-job {
-	min-height: 20px;
-	padding: 5px 0;
-	margin-bottom: 15px;
+  margin-bottom: 15px;
+  padding: 5px 0;
+  min-height: 20px;
 }
 
 .section-title,
 .position {
-	font-weight:bold;	
-}
-
-#contacts {
-  margin-bottom:304px;
+  font-weight:bold;
 }
 
 dl {
@@ -40,23 +39,23 @@ dd {
 }
 
 h3.section-title  {
-  color: #454545;
-  font-size: 22px;
-  font-weight: 700;
   margin: 1px 0 3px 0;
+  color: #454545;
+  font-weight: 700;
+  font-size: 22px;
 }
 
 p.paragraph-title {
-  color: #454545;
-  font-size: 120%;
-  font-weight: 600;
   margin: 2px 0 2px 0;
+  color: #454545;
+  font-weight: 600;
+  font-size: 120%;
 
 }
 
 p.date {
-  font-size: 86%;
   color: #666;
+  font-size: 86%;
 }
 
 p.company {
@@ -69,8 +68,8 @@ p.company {
 
 div.lang {
   float: right;
-  border:0;
   margin-right: 80px;
+  border:0;
 }
 
 .lang a:hover {
@@ -80,12 +79,28 @@ div.lang {
 }
 
 .lang img {
-  border:0; 
+  border:0;
+}
+
+#footer {
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+#footer .glyphicon {
+  margin-right: 5px;
 }
 
 @media (min-width: 992px) {
-	.border-top {
-		border-top: 1px solid #999;
-		padding-top: 5px;
-	}	
+  .border-top {
+    padding-top: 5px;
+    border-top: 1px solid #999;
+  }
+
+  #contacts {
+    padding-bottom: 495px;
+  }
 }
+
