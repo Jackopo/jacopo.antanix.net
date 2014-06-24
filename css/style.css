@@ -1,7 +1,12 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 body,
 section {
-  padding-top: 70px;
+  padding-top: 60px;
 }
+
 
 .item {
   height: 100%;
@@ -20,8 +25,32 @@ section {
 }
 
 .section-title,
-.position {
+.position,
+.college{
   font-weight:bold;
+}
+
+.degree {
+  font-weight: 600;
+  color: #222;
+}
+
+#subtitle {
+  font-size: 16px;
+}
+
+#profile p {
+  line-height: 27px;
+  vertical-align: bottom;
+  margin: 0 0 5px;
+}
+
+#profile span {
+  white-space:nowrap;
+}
+
+#footer p {
+  padding-top: 5px;
 }
 
 dl {
@@ -38,14 +67,14 @@ dd {
   width: 100%;
 }
 
-h3.section-title  {
+.section-title  {
   margin: 1px 0 3px 0;
-  color: #454545;
+  color: #868686;
   font-weight: 700;
   font-size: 22px;
 }
 
-p.paragraph-title {
+.paragraph-title {
   margin: 2px 0 2px 0;
   color: #454545;
   font-weight: 600;
@@ -53,12 +82,13 @@ p.paragraph-title {
 
 }
 
-p.date {
+.date {
   color: #666;
   font-size: 86%;
 }
 
-p.company {
+.company,
+.college-location {
   color: #888;
 }
 
@@ -93,10 +123,31 @@ div.lang {
   margin-right: 5px;
 }
 
+.tags {
+  padding-left: 0;
+  list-style: none;
+}
+
+.tags li,
+.tag {
+/*  display: inline-block;
+  margin: 0 1px 1px 0;*/
+  padding: 3px 6px;
+  border-radius: 3px;
+  background-color: #d1d1d1;
+  vertical-align:middle;
+  word-wrap: break-word;
+}
+
+.no-style {
+  padding-left: 0;
+  list-style-type: none;
+}
+
 @media (min-width: 992px) {
   .border-top {
     padding-top: 5px;
-    border-top: 1px solid #999;
+    /*border-top: 1px solid #999;*/
   }
 
   #contacts {
@@ -104,3 +155,14 @@ div.lang {
   }
 }
 
+@media print {
+  .border-top {
+    padding-top: 15px;
+    border-top: 1px solid #999;
+  }
+
+  section {
+    padding-top: 35px;
+  }
+
+}
