@@ -144,6 +144,11 @@ div.lang {
   list-style-type: none;
 }
 
+.image-for-print {
+  display: none;
+}
+
+
 @media (min-width: 992px) {
   .border-top {
     padding-top: 5px;
@@ -156,13 +161,27 @@ div.lang {
 }
 
 @media print {
+  @page {
+    margin: 2cm;
+  }
+
   .border-top {
     padding-top: 15px;
     border-top: 1px solid #999;
   }
 
-  section {
-    padding-top: 35px;
+  section:nth-of-type(1),
+  section:nth-of-type(n+3) {
+    padding-top: 45px;
   }
 
+  section:nth-of-type(2) {
+    padding-top: 65px;
+
+  }
+
+  .image-for-print {
+    margin: 0 auto;
+    display: block;
+  }
 }
