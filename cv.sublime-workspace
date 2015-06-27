@@ -523,33 +523,34 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2284,
+				"buffer_size": 12339,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+			"file": "bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
 			"settings":
 			{
-				"buffer_size": 476,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/jacopo/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
-			"settings":
-			{
-				"buffer_size": 1136,
+				"buffer_size": 58560,
 				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 241.0,
+		"height": 93.0,
+		"last_filter": "cehck",
 		"selected_items":
 		[
+			[
+				"cehck",
+				"Git: Checkout Current File"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -635,11 +636,20 @@
 				"Preferences: Alignment Key Bindings – Default"
 			]
 		],
-		"width": 633.0
+		"width": 579.0
 	},
 	"console":
 	{
-		"height": 139.0
+		"height": 139.0,
+		"history":
+		[
+			"rails c",
+			"rails s",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"rspec spec/helpers/cms_link_helper_spec.rb",
+			"echo \"diomerrda\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -650,11 +660,28 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/jghisolfi/Projects/jacopo.antanix.net",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components/bootstrap",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components/bootstrap/dist",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components/bootstrap/dist/css",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components/bootstrap/dist/fonts",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components/bootstrap/dist/js",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/fonts"
+	],
 	"file_history":
 	[
-		"/home/jacopo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
-		"/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/cv.sublime-project",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/css/bootstrap.min.css",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower.json",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/bower_components/bootstrap/dist/css/bootstrap-theme.min.css",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/css/bootstrap-theme.min.css",
+		"/Users/jghisolfi/Projects/jacopo.antanix.net/js/bootstrap.min.js",
 		"/home/jacopo/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/jacopo/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/jacopo/.config/sublime-text-2/Packages/User/View In Browser.sublime-settings",
 		"/home/jacopo/workspace-spring/bookuopenshift/web-app/css/projectview.css",
 		"/home/jacopo/workspace-spring/bookuopenshift/grails-app/views/profile/index.gsp",
@@ -773,13 +800,7 @@
 		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_ticketItem.gsp",
 		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_shiftItem.gsp",
 		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_contractor.gsp",
-		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_new-ticket.gsp",
-		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_edit-ticket.gsp",
-		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_new-job.gsp",
-		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_edit-job.gsp",
-		"/home/jacopo/workspace-spring/peacock/grails-app/services/com/lithec/webapp/TicketService.groovy",
-		"/home/jacopo/workspace-spring/peacock/grails-app/services/com/lithec/webapp/JobService.groovy",
-		"/home/jacopo/workspace-spring/peacock/grails-app/views/common/_menuResponsive.gsp"
+		"/home/jacopo/workspace-spring/peacock/grails-app/views/project/_new-ticket.gsp"
 	],
 	"find":
 	{
@@ -1085,17 +1106,18 @@
 				{
 					"buffer": 0,
 					"file": "index.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2284,
+						"buffer_size": 12339,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1132,
-								1132
+								639,
+								639
 							]
 						],
 						"settings":
@@ -1157,6 +1179,7 @@
 								"trailing": true,
 								"wsh": true
 							},
+							"live_git_annotations": true,
 							"parser": "markdown",
 							"pep8": true,
 							"pep8_ignore":
@@ -1195,132 +1218,19 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 10.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/jacopo/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+					"file": "bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 476,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								476,
-								476
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/jacopo/.config/sublime-text-2/Packages/View In Browser/View In Browser.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 1136,
+						"buffer_size": 58560,
 						"regions":
 						{
 						},
@@ -1333,102 +1243,14 @@
 						],
 						"settings":
 						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"live_git_annotations": true,
+							"syntax": "Packages/Theme - Coffee/Prefs/Langs/font.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1465,6 +1287,12 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 420.0
+	},
+	"pinned_build_system": "",
+	"project": "cv.sublime-project",
 	"replace":
 	{
 		"height": 66.0
@@ -1473,6 +1301,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1501,6 +1330,7 @@
 	"select_project":
 	{
 		"height": 500.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -1510,10 +1340,274 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "layout_tags",
+		"selected_items":
+		[
+			[
+				"layout_tags",
+				"test_should_allow_only_custom_tags"
+			],
+			[
+				"scrivito_hea",
+				"scrivito_head_tags"
+			],
+			[
+				"redner",
+				"render_multiple_campaigns_widget"
+			],
+			[
+				"widgetlist",
+				"serialize_widgetlist_value"
+			],
+			[
+				"widget",
+				"widgetlist?"
+			],
+			[
+				"widgetli",
+				"widgetlist?"
+			],
+			[
+				"render",
+				"render_two_campaign_widget"
+			],
+			[
+				"page_deta",
+				"page_details"
+			],
+			[
+				"scrivito_tag",
+				"scrivito_tag"
+			],
+			[
+				"details",
+				"details"
+			],
+			[
+				"permissions",
+				"Permissions"
+			],
+			[
+				"imagetag",
+				"ImageTagHelper"
+			],
+			[
+				"scrivito_image",
+				"scrivito_image_tag"
+			],
+			[
+				"layoutt",
+				"LayoutTags"
+			],
+			[
+				"scrivito_bo",
+				"scrivito_body_tags"
+			],
+			[
+				"scrivito_de",
+				"scrivito_edit_referencelist"
+			],
+			[
+				"edi",
+				"EditingHelper"
+			],
+			[
+				"display",
+				"display_title"
+			],
+			[
+				"displa",
+				"display_title"
+			],
+			[
+				"objcontro",
+				"ObjsController"
+			],
+			[
+				"update",
+				"update"
+			],
+			[
+				"get_obj_c",
+				"forget_obj_class"
+			],
+			[
+				"update_obj",
+				"update_obj_class"
+			],
+			[
+				"load_",
+				"load_obj"
+			],
+			[
+				"homepage",
+				"homepage?"
+			],
+			[
+				"scrivit",
+				"scrivito_tag_list"
+			],
+			[
+				"scrivitoTag",
+				"scrivito_tag_list"
+			],
+			[
+				"menu",
+				"menu_title"
+			],
+			[
+				"binar",
+				"binary_url"
+			],
+			[
+				"locale",
+				"locale"
+			],
+			[
+				"relate",
+				"related_links"
+			],
+			[
+				"",
+				"$ControllerProvider"
+			],
+			[
+				"navigation_",
+				"navigation_items"
+			],
+			[
+				"email",
+				"email_for_editor"
+			],
+			[
+				"office_por",
+				"office_portrait_container"
+			],
+			[
+				"cms_l",
+				"cms_link_to"
+			],
+			[
+				"cms_li",
+				"cms_path_or_url_for_links"
+			],
+			[
+				"openOffice",
+				"$s.openOfficePortrait"
+			],
+			[
+				"belo",
+				"belongs_to_office_portrait?"
+			],
+			[
+				"link_to",
+				"link_to_post"
+			],
+			[
+				"render_bo",
+				"render_box"
+			],
+			[
+				"rewr",
+				"rewrite_domain_for_object_when_necessary"
+			],
+			[
+				"for_dom",
+				"for_domain"
+			],
+			[
+				"cms_link",
+				"cms_link_to"
+			],
+			[
+				"rewrit",
+				"rewrite_domain_for_object_when_necessary"
+			],
+			[
+				"sorted",
+				"sorted_toclist"
+			],
+			[
+				"sho",
+				"show_in_navigation?"
+			],
+			[
+				"show_in",
+				"show_in_navigation?"
+			],
+			[
+				"load_h",
+				"load_homepage"
+			],
+			[
+				"home",
+				"load_homepage"
+			],
+			[
+				"cms_",
+				"cms_link_to"
+			],
+			[
+				"box_o",
+				"box_objects"
+			],
+			[
+				"render_boxes",
+				"render_boxes"
+			],
+			[
+				"cms_path",
+				"cms_path"
+			],
+			[
+				"sorted_toclist",
+				"sorted_toclist"
+			],
+			[
+				"NavigationSerializer",
+				"NavigationSerializer"
+			],
+			[
+				"NavigationItemDecorator",
+				"NavigationItemDecorator"
+			],
+			[
+				"seri",
+				"serialize_navigation"
+			],
+			[
+				"obj",
+				"Obj"
+			],
+			[
+				"print",
+				"$s.print"
+			],
+			[
+				"page",
+				"Page"
+			],
+			[
+				"stic",
+				"Stickem"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 323.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
