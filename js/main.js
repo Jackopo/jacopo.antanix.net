@@ -35,3 +35,7 @@ $(".nav a").click(function() {
   var id = $(this).attr("data-id");
   scrollDownToID("#"+id);
 });
+
+$(document).ready( function () {
+  $.stellar();
+})

@@ -2,6 +2,15 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.parallax-element {
+  background-image: url("../img/face.jpg");
+  border-radius: 100px;
+  height: 200px;
+  position: fixed;
+  top:71px;
+  width: 200px;
+  z-index: 4;
+}
 body,
 section {
   padding-top: 60px;
@@ -183,5 +192,10 @@ div.lang {
   .image-for-print {
     margin: 0 auto;
     display: block;
+  }
+
+  .sun {
+    display: none;
+    visibility: hidden;
   }
 }
