@@ -74,11 +74,17 @@ dd {
   margin-bottom: 32px;
 }
 
-footer {
+.footer {
   background-color: #f5f5f5;
   bottom: 0;
   height: 60px;
+  line-height: 60px;
   width: 100%;
+}
+
+.footer > .container {
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .tag {
