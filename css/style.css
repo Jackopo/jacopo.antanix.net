@@ -1,15 +1,11 @@
-/*body {
-}*/
 
 body {
-  /*display: flex;
-  align-items: center;
-  justify-content: center;*/
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #333;
   box-sizing: border-box;
 }
+
 body * {
   box-sizing: border-box;
 }
@@ -41,14 +37,6 @@ body, section {
   font-size: 16px;
 }
 
-#summary span {
-  white-space: nowrap;
-}
-
-#footer p {
-  padding-top: 5px;
-}
-
 dl {
   float: right;
   clear: none;
@@ -78,9 +66,7 @@ dd {
   font-size: 86%;
 }
 
-.company,
-.college-location,
-.location {
+.company, .college-location, .location {
   color: #888;
 }
 
@@ -92,6 +78,7 @@ dd {
   margin-top: 60px;
 }
 
+
 /* Footer */
 
 .footer {
@@ -102,7 +89,7 @@ dd {
   width: 100%;
 }
 
-.footer > .container {
+.footer>.container {
   padding-left: 16px;
   padding-right: 16px;
 }
@@ -126,22 +113,25 @@ dd {
 /* *+****************
   Timeline
 ******************* */
+
 .timeline {
   width: 100%;
 }
+
 .timeline:before {
-  content: '';
-  position: absolute;
-  top: 0px;
-  left: calc(33% + 15px);
-  bottom: 0px;
-  width: 4px;
   background: #ddd;
+  bottom: 0;
+  content: '';
+  left: calc(33% + 15px);
+  position: absolute;
+  top: 0;
+  width: 4px;
 }
+
 .timeline:after {
+  clear: both;
   content: "";
   display: table;
-  clear: both;
 }
 
 .entry {
@@ -149,62 +139,69 @@ dd {
   text-align: left;
   position: relative;
 }
+
 .entry .title {
   margin-bottom: .5em;
   float: left;
-  width: 33%;
   padding-right: 30px;
-  text-align: right;
   position: relative;
+  text-align: right;
+  width: 33%;
 }
+
 .entry .title:before {
-  content: '';
-  position: absolute;
-  width: 16px;
-  height: 16px;
-  border: 4px solid salmon;
   background-color: #fff;
+  border: 4px solid salmon;
   border-radius: 100%;
-  top: 15%;
+  content: '';
+  height: 16px;
   right: -20px;
+  position: absolute;
+  top: 15%;
+  width: 16px;
   z-index: 99;
 }
+
 .entry .title h4 {
-  margin: 0;
   font-size: 120%;
-}
-.entry .title p {
   margin: 0;
+}
+
+.entry .title p {
   font-size: 100%;
+  margin: 0;
 }
+
 .entry .body {
-  margin: 0 0 3em;
   float: right;
-  width: 66%;
+  margin: 0 0 3em;
   padding-left: 30px;
+  width: 66%;
 }
+
 .entry .body p {
   line-height: 1.4em;
 }
+
 .entry .body p:first-child {
-  margin-top: 0;
   font-weight: 400;
+  margin-top: 0;
 }
+
 .entry .body ul {
-  padding-left: 0;
   list-style-type: none;
+  padding-left: 0;
 }
+
 .entry .body ul li:before {
   content: "–";
   margin-right: .5em;
 }
 
-
 @media (max-width: 768px) {
   .timeline:before {
     left: auto;
   }
-
   .entry .title {
     float: none;
     padding-left: 30px;
@@ -212,11 +209,9 @@ dd {
     text-align: left;
     width: auto;
   }
-
   .entry .title:before {
     left: -6px;
   }
-
   .entry .body {
     float: none;
     width: auto;
