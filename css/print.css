@@ -1,0 +1,9 @@
+
+@page {
+  margin: 0.5cm;
+}
+
+
+.entry .title:before {
+  content: none;
+}
